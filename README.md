@@ -10,6 +10,7 @@ Gulp.js
 # Prerequisite to run the function:
 
 Run 'npm install' to install the node packages
+Run 'npm -g install gulp-cli' to install gulp-cli
 
 # How To Run?
 
