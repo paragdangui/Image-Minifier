@@ -9,8 +9,8 @@ Image Optimisation (JPEG, PNG & GIF) automation task performed using Gulp.js
 
 # Prerequisite to run the function:
 
-1. Run 'npm install' to install the node packages
-Run 'npm -g install gulp-cli' to install gulp-cli
+- Run 'npm install' to install the node packages
+- Run 'npm -g install gulp-cli' to install gulp-cli
 
 # How To Run?
 
