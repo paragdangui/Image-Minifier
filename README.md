@@ -1,11 +1,11 @@
-# img-minifier
+# Imgage Minifier
 
 Image Optimisation (JPEG, PNG & GIF) automation task performed using Gulp.js
 
 # Technologies:
 
-Node.js
-Gulp.js
+1. Node.js
+2. Gulp.js
 
 # Prerequisite to run the function:
 
